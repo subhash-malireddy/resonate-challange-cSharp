@@ -1,0 +1,16 @@
+D:\learn-CSharp\resonate\bin\Debug\net5.0\resonate.exe
+D:\learn-CSharp\resonate\bin\Debug\net5.0\resonate.deps.json
+D:\learn-CSharp\resonate\bin\Debug\net5.0\resonate.runtimeconfig.json
+D:\learn-CSharp\resonate\bin\Debug\net5.0\resonate.runtimeconfig.dev.json
+D:\learn-CSharp\resonate\bin\Debug\net5.0\resonate.dll
+D:\learn-CSharp\resonate\bin\Debug\net5.0\ref\resonate.dll
+D:\learn-CSharp\resonate\bin\Debug\net5.0\resonate.pdb
+D:\learn-CSharp\resonate\obj\Debug\net5.0\resonate.csprojAssemblyReference.cache
+D:\learn-CSharp\resonate\obj\Debug\net5.0\resonate.GeneratedMSBuildEditorConfig.editorconfig
+D:\learn-CSharp\resonate\obj\Debug\net5.0\resonate.AssemblyInfoInputs.cache
+D:\learn-CSharp\resonate\obj\Debug\net5.0\resonate.AssemblyInfo.cs
+D:\learn-CSharp\resonate\obj\Debug\net5.0\resonate.csproj.CoreCompileInputs.cache
+D:\learn-CSharp\resonate\obj\Debug\net5.0\resonate.dll
+D:\learn-CSharp\resonate\obj\Debug\net5.0\ref\resonate.dll
+D:\learn-CSharp\resonate\obj\Debug\net5.0\resonate.pdb
+D:\learn-CSharp\resonate\obj\Debug\net5.0\resonate.genruntimeconfig.cache
